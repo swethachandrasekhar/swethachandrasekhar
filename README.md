@@ -5,7 +5,6 @@
 I’m a dynamic, detail-oriented and collaborative front-end web developer with an excellent track record of building and leading teams to success. 
 I love writing clean, easy to understand code and aim to build socially responsible apps that put user experience and accessibility to the forefront. I'm endlessly curious and nothing satisfies me like an elegant solution to a problem.
 
-With 5+ years of previous experience in Software Delivery Management and QA, I excel at communication on a broad spectrum (from technical discussions to high-level executive vision), manage multiple complex initiatives and strong organizational skills.
 I’m excited to continue refining my skills with the right company where I can grow and build great things with passionate people.
 
 When I'm not coding, I'm planning my next adventure travel, playing online chess or perfecting my Masala Chai recipe. 
