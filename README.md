@@ -14,9 +14,10 @@ When I'm not coding, I'm planning my next adventure travel, playing online chess
 HTML5 | JavaScript ES6 | CSS3 | REACT | Sass | jQuery | REST APIs | Firebase | Python | 
 Git/Github | Accessibility |  Responsive Design | PSD Conversion | Software Testing | Selenium IDE 
  
-### 💻 I'm currently learning: 
-- React Context APi
-- Python
+### 💻 I'm currently: 
+- Improving my React skills
+- learning React Context API
+- learning Python
  
 ### :books: In 2021 I want to learn: 
 - Redux
