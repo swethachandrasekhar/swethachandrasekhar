@@ -16,7 +16,6 @@ Git/Github | Accessibility |  Responsive Design | PSD Conversion | Software Test
  
 ### 💻 I'm currently learning: 
 - React Context APi
-- Vanilla JS
 - Python
  
 ### :books: In 2021 I want to learn: 
