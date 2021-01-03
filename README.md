@@ -1,4 +1,4 @@
-# Hi there👋 I'm Swetha! (she/her)
+# Hi there👋 I'm [Swetha](www.swethacodes.com)! (she/her)
 
 I’m a dynamic, detail-oriented and collaborative front-end web developer with an excellent track record of building and leading teams to success. 
 I love writing clean, easy to understand code and aim to build socially responsible apps that put user experience and accessibility to the forefront. I'm endlessly curious and nothing satisfies me like an elegant solution to a problem.
