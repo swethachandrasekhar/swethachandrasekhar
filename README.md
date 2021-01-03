@@ -6,6 +6,7 @@ I love writing clean, easy to understand code and aim to build socially responsi
 I’m excited to continue refining my skills with the right company where I can grow and build great things with passionate people.
 
 When I'm not coding, I'm planning my next adventure travel, playing online chess or perfecting my Masala Chai recipe. 
+Feel free to [reach out](https://calendly.com/swethac) if you are interested in working together or just want to chat about The Queen's Gambit!
 
 ## My Technical Toolkit:
 
@@ -22,7 +23,7 @@ When I'm not coding, I'm planning my next adventure travel, playing online chess
     - TypeScript
     - Tailwind CSS
 
-Feel free to reach out if you are interested in working together or just want to chat about The Queen's Gambit!
+
  
 <!--
 **swethachandrasekhar/swethachandrasekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
