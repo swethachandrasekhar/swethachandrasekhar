@@ -13,14 +13,14 @@ HTML5 | JavaScript ES6 | CSS3 | REACT | Sass | jQuery | REST APIs | Firebase | P
 Git/Github | Accessibility |  Responsive Design | PSD Conversion | Software Testing | Selenium IDE 
  
 ### 💻 I'm currently: 
-- Improving my React skills
-- learning React Hooks
-- learning Python
+    - Improving my React skills
+    - learning React Hooks
+    - learning Python
  
 ### :books: In 2021 I want to learn: 
-- Node.js
-- TypeScript
-- Tailwind CSS
+    - Node.js
+    - TypeScript
+    - Tailwind CSS
 
 Feel free to reach out if you are interested in working together or just want to chat about The Queen's Gambit!
  
