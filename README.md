@@ -9,8 +9,8 @@ When I'm not coding, I'm planning my next adventure travel, playing online chess
 
 ## My Technical Toolkit:
 
-HTML5 | JavaScript ES6 | CSS3 | REACT | Sass | jQuery | REST APIs | Firebase | Python | 
-Git/Github | Accessibility |  Responsive Design | PSD Conversion | Software Testing | Selenium IDE 
+    HTML5 | JavaScript ES6 | CSS3 | REACT | Sass | jQuery | REST APIs | Firebase | Python | 
+    Git/Github | Accessibility |  Responsive Design | PSD Conversion | Software Testing | Selenium IDE 
  
 ### 💻 I'm currently: 
     - Improving my React skills
